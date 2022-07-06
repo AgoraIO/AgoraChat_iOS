@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "AgoraChat_iOS",
+    name: "AgoraChat",
     defaultLocalization: "en",
     platforms: [.iOS(.v10)],
     products: [
