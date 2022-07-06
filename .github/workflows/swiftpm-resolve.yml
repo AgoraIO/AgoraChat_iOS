@@ -1,0 +1,19 @@
+name: resolve
+
+on:
+  push:
+    branches:
+      - "main"
+    tags:
+      - "!*"
+  pull_request:
+    branches:
+    - "*"
+
+jobs:
+  resolve:
+    runs-on: iOS 10.0
+    steps:
+    - uses: actions/checkout@v1.6
+    - name: Build Package
+      run: swift package resolve
