@@ -20,6 +20,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .binaryTarget(name: "AgoraChat", url: "https://download.agora.io/sdk/release/Agora_Chat_iOS-1.0.9.zip", checksum: "7d0fd5c4ed9769c571e8a5a7df76528ee6b30b5daf1de3411b635db522ebffeb"),
+        .binaryTarget(name: "AgoraChat", url: "https://downloadsdk.easemob.com/downloads/AgoraChat/iOS/AgoraChat1_1_0.xcframework.zip", checksum: "d04b005d7e326110deb8dba546f8ea1fc43f68666d941366d6e6dd424a8cf8ce"),
     ]
 )
