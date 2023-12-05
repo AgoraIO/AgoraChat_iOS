@@ -9,10 +9,6 @@ Install AgoraChat_iOS SDK easily with Swift Package Manager.
 
 [Click here for full documentation](https://docs-preprod.agora.io/en/agora-chat/agora_chat_overview?platform=iOS).
 
-## Note
-
-The current version does not support the M1 Mac iPhone Simulator. 
-
 ## Installation
 
 Add the URL of this repository to your Xcode 12+ Project.
