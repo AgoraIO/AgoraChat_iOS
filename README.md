@@ -1,7 +1,7 @@
 # Agora Swift Package Manager
 
 <p align="center">
-  <img src="https://github.com/AgoraIO/AgoraChat_iOS/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
+  <img src="https://github.com/zjc19891106/AgoraChat_iOS/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
 </p>
 Install AgoraChat_iOS SDK easily with Swift Package Manager.
 
